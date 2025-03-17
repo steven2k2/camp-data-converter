@@ -10,6 +10,10 @@
    - **Markdown** (human-readable reports)
 - Easily extendable for **CSV, Excel, or Office 365 automation**
 
+
+
+  ![Screenshot of HTML Data](./docs/images/screenshot.png)
+
 ---
 
 ## 📦 Installation
