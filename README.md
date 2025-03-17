@@ -3,9 +3,12 @@
 **Camp Data Converter** is a Python-based tool for extracting structured data from Basecamp HTML exports and converting it into **JSON** and **Markdown** formats. This allows for further transformations into CSV, Excel, or automation workflows.
 
 ### **Disclaimer**
-This project is a **code example** intended for demonstration purposes only. **All data, company names, and individuals referenced within this repository are entirely fictitious.** Any resemblance to actual persons, living or dead, or real-world organizations is purely coincidental.
+This project is a **code example** intended for demonstration purposes only.
+All data, company names, and individuals referenced within this repository are entirely fictitious.
+Any resemblance to actual persons, living or dead, or real-world organisations is purely coincidental.
 
-The use of **Nordic-style names, addresses, and data** is a **deliberate convention** chosen to ensure sample information is easily recognizable and does not inadvertently correspond to real entities in an Australasian context. This convention is purely aesthetic and does not imply any geographical or cultural affiliation.
+The use of **Nordic-style names, addresses, and data** is a **deliberate convention** chosen to ensure sample information is easily recognisable and does not inadvertently correspond to real entities in an Australasian context.
+This convention is purely aesthetic and does not imply any geographical or cultural affiliation.
 
 This project is provided **as-is** with no guarantees or warranties. Use at your own discretion.
 
@@ -65,7 +68,7 @@ Or use the **Bash script**:
 ```sh
 python json_to_md.py output.json report.md
 ```
-- `output.json` → JSON output file from previous step
+- `output.json` → JSON output file from a previous step
 - `report.md` → Markdown output file
 
 Or use the **Bash script**:
@@ -131,12 +134,3 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 
 ## License
 This project is licensed under the **MIT License**.
-
----
-
-### **Disclaimer**  
-This project is a **code example** intended for demonstration purposes only. **All data, company names, and individuals referenced within this repository are entirely fictitious.** Any resemblance to actual persons, living or dead, or real-world organizations is purely coincidental.  
-
-The use of **Nordic-style names, addresses, and data** is a **deliberate convention** chosen to ensure sample information is easily recognizable and does not inadvertently correspond to real entities in an Australasian context. This convention is purely aesthetic and does not imply any geographical or cultural affiliation.  
-
-This project is provided **as-is** with no guarantees or warranties. Use at your own discretion.  
