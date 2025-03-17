@@ -1,0 +1,39 @@
+{
+    "work_orders": [
+        {
+            "id": "WO-1042 - Network Installation",
+            "title": "Work Order",
+            "created_at": "2025-03-01 09:30:00",
+            "client": "NordTek Solutions",
+            "location": "Wessels gate 181, 7043 Trondheim, Norway",
+            "technicians": [
+                "Anders Halvorsen - Lead Technician",
+                "Kristin Nygaard - Network Engineer"
+            ],
+            "tasks": [
+                "Install fibre-optic cabling",
+                "Configure network routers"
+            ],
+            "service_logs": [
+                "Oskar Vik - Security Systems Specialist",
+                "Elise R\u00f8nning - Electrical Technician"
+            ]
+        },
+        {
+            "id": "WO-1056 - Security System Maintenance",
+            "title": "Work Order",
+            "created_at": "2025-03-05 11:45:00",
+            "client": "FjordLogistikk AS",
+            "location": "Havneveien 22, 0150 Oslo, Norway",
+            "technicians": [
+                "Oskar Vik - Security Systems Specialist",
+                "Elise R\u00f8nning - Electrical Technician"
+            ],
+            "tasks": [
+                "Inspect CCTV cameras",
+                "Test alarm response time"
+            ],
+            "service_logs": []
+        }
+    ]
+}
