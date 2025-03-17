@@ -2,6 +2,14 @@
 
 **Camp Data Converter** is a Python-based tool for extracting structured data from Basecamp HTML exports and converting it into **JSON** and **Markdown** formats. This allows for further transformations into CSV, Excel, or automation workflows.
 
+### **Disclaimer**
+This project is a **code example** intended for demonstration purposes only. **All data, company names, and individuals referenced within this repository are entirely fictitious.** Any resemblance to actual persons, living or dead, or real-world organizations is purely coincidental.
+
+The use of **Nordic-style names, addresses, and data** is a **deliberate convention** chosen to ensure sample information is easily recognizable and does not inadvertently correspond to real entities in an Australasian context. This convention is purely aesthetic and does not imply any geographical or cultural affiliation.
+
+This project is provided **as-is** with no guarantees or warranties. Use at your own discretion.
+
+
 ## 🚀 Features
 - Parses **Basecamp HTML exports**
 - Extracts **work orders, tasks, assigned technicians, and service logs**
@@ -10,9 +18,9 @@
    - **Markdown** (human-readable reports)
 - Easily extendable for **CSV, Excel, or Office 365 automation**
 
+---
 
-
-  ![Screenshot of HTML Data](./docs/images/screenshot.png)
+![Screenshot of HTML Data](./docs/images/convert.png)
 
 ---
 
@@ -123,3 +131,12 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 
 ## License
 This project is licensed under the **MIT License**.
+
+---
+
+### **Disclaimer**  
+This project is a **code example** intended for demonstration purposes only. **All data, company names, and individuals referenced within this repository are entirely fictitious.** Any resemblance to actual persons, living or dead, or real-world organizations is purely coincidental.  
+
+The use of **Nordic-style names, addresses, and data** is a **deliberate convention** chosen to ensure sample information is easily recognizable and does not inadvertently correspond to real entities in an Australasian context. This convention is purely aesthetic and does not imply any geographical or cultural affiliation.  
+
+This project is provided **as-is** with no guarantees or warranties. Use at your own discretion.  
